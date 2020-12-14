@@ -42,4 +42,4 @@
 
 ---
 
-This repo was created to be used as a reference for [this](https://youtube.com/packetcode) YouTube video explaining Git commands. But feel free to fork this repo if you want to use it as a **cheatsheet**.
+This repo was created to be used as a reference for [this](https://www.youtube.com/watch?v=IgX7tHe5onI) YouTube video explaining Git commands. But feel free to fork this repo if you want to use it as a **cheatsheet**.
